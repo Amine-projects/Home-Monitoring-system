@@ -1,7 +1,5 @@
 # Home-Monitoring-system
 
-# Arduino Home Security System (I2C Communication)
-
 This project implements a basic home security system using two Arduino Unos connected via I2C. The system uses hall effect sensors to detect door/window breaches and includes a keypad-based interface to arm or disarm the alarm.
 
 ## Features
