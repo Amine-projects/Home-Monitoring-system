@@ -50,4 +50,4 @@ ad:
 
 ## Circuit Diagram
 
-![TinkerCad Diagram](TinkerCad Setup.png)
+![TinkerCad Diagram](TinkerCad_Setup.png)
