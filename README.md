@@ -49,3 +49,5 @@ tinkercad_link.txt: Link to the Tinkercad simulation
 ad:  
 
 ## Circuit Diagram
+
+![TinkerCad Diagram](TinkerCad Setup.png)
